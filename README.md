@@ -1,3 +1,3 @@
 o site ainda não possue CSS, botões funcionando e outras coisas, mas já estou satisfeito com o resultado atual do projeto   
-link da pagina:
-content://ru.zdevs.zarchiver.external/storage/emulated/0/Documents/Projetos%20html/index.html
+link de dowloaad da pagina:
+https://www.mediafire.com/file/uw2rr1ng16q8qq4/index.html/file
